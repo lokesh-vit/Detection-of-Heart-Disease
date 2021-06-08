@@ -12,9 +12,14 @@
 
 ![](/images/Picture1.png)
 ![](/images/Picture2.png)
+
+## Decision Tree:
+
 ![](/images/Picture3.png)
 
 <br>
 
 ## Result:
+<p align="justify"> The result of the existing system gives 94.4 percent accuracy. From the proposed system, we did leaf node manipulation in the dataset so that error will be reduced by 1% and it has achieved the <b>95.4% accuracy and performance.</b></p>
+
 ![](/images/Picture4.png)
